@@ -114,6 +114,8 @@
         <Properties>
           <Property
             Name="BackgroundColor">#ffffff</Property>
+          <Property
+            Name="PaddingLeft">12px</Property>
         </Properties>
       </Style>
       <Style
@@ -185,6 +187,12 @@
           <Property
             Name="Width">98%</Property>
           <Property
+            Name="AlignmentHorizontal">right</Property>
+          <Property
+            Name="Stretch">yes</Property>
+          <Property
+            Name="Display">none</Property>
+          <Property
             Name="Order">3</Property>
         </Properties>
       </Style>
@@ -238,6 +246,10 @@
         <Properties>
           <Property
             Name="Order">4</Property>
+          <Property
+            Name="Stretch">yes</Property>
+          <Property
+            Name="DisplayFlex">flex</Property>
         </Properties>
       </Style>
     </Styles>
