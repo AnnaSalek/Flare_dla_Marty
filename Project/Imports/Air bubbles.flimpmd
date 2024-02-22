@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkdownImport
+  ImportFolder="Resources\Markdown"
+  LastImport="2024-02-06T13:18:04.0777284+01:00">
+  <Files>
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Air bubbles.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Air bubbles.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Colour bleed.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Colour bleed.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Consistencies.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Consistencies.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Drying problems.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Drying problems.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Features.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Features.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Getting StartedX.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Getting StartedX.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Ingredients.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Ingredients.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Preparing RI.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Preparing RI.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Procedure 2.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Procedure 2.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Procedure 3.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Procedure 3.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Spots.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Spots.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Tools.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Tools.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Typical problems.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Typical problems.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/Useful Information.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/Useful Information.md" />
+    <Url
+      Source="../../../../../../../Madcap_Royal_Icing/MADCAP/What is RI.md"
+      AbsoluteSource="file:///C:/Madcap_Royal_Icing/MADCAP/What is RI.md" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Markdown/Air bubbles.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Colour bleeding.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Consistencies.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Your icing doesn’t dry completely..htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/FeaturesIt this section you.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Getting Started This guide.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/IngredientsThere are a variety.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/How to prepare Royal IcingThere.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/How to get a deep red colourThis.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/How to get a rich blackThis.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Ugly spots on a surfaceThere.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/What do you need to decorate.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Typical problemsDelete this.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/Useful InformationThis section.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Markdown/What is Royal Icing.htm"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../TOCs/Air bubbles.fltoc"
+      TimeStamp="06.02.2024 13:17:51" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Air bubbles.css"
+      TimeStamp="06.02.2024 13:17:51" />
+  </GeneratedFiles>
+  <Styles>
+    <Map
+      From="blockquote"
+      To="blockquote"
+      Style="Block" />
+    <Map
+      From="h1"
+      To="h1"
+      Style="Block" />
+    <Map
+      From="h2"
+      To="h2"
+      Style="Block" />
+    <Map
+      From="h3"
+      To="h3"
+      Style="Block" />
+    <Map
+      From="h4"
+      To="h4"
+      Style="Block" />
+    <Map
+      From="h5"
+      To="h5"
+      Style="Block" />
+    <Map
+      From="h6"
+      To="h6"
+      Style="Block" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Block" />
+    <Map
+      From="p"
+      To="p"
+      Style="Block" />
+    <Map
+      From="pre"
+      To="MadCap:codeSnippet"
+      Style="Block" />
+    <Map
+      From="a"
+      To="a"
+      Style="Inline" />
+    <Map
+      From="code"
+      To="code"
+      Style="Inline" />
+    <Map
+      From="em"
+      To="em"
+      Style="Inline" />
+    <Map
+      From="MadCap:equation"
+      To="MadCap:equation"
+      Style="Inline" />
+    <Map
+      From="strong"
+      To="strong"
+      Style="Inline" />
+    <Map
+      From="li"
+      To="li"
+      Style="List" />
+    <Map
+      From="ol"
+      To="ol"
+      Style="List" />
+    <Map
+      From="ul"
+      To="ul"
+      Style="List" />
+    <Map
+      From="dd"
+      To="dd"
+      Style="Definition List" />
+    <Map
+      From="dl"
+      To="dl"
+      Style="Definition List" />
+    <Map
+      From="dt"
+      To="dt"
+      Style="Definition List" />
+  </Styles>
+  <NewTopicStyles>
+    <Style
+      Tag="h1" />
+  </NewTopicStyles>
+</MarkdownImport>

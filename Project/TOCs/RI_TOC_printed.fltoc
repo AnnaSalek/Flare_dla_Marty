@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="titlepage"
+    Link="/Content/Resources/Title page.htm"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayout/IvanhoePageLayout.flpgl"
+    conditions="print.PrintOnly"></TocEntry>
+  <TocEntry
+    Title="proxy"
+    Link="/Content/Resources/TOCpdfProxy.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayout/IvanhoePageLayout.flpgl"
+    conditions="print.PrintOnly"></TocEntry>
+  <TocEntry
+    Title="Intro"
+    Link="/Content/A_Introduction Topics/Intr.htm">
+    <TocEntry
+      Title="What is RI?"
+      Link="/Content/A_Introduction Topics/What is Royal Icing.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tools"
+      Link="/Content/A_Introduction Topics/Tools.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Features"
+    Link="/Content/B_Feature Topics/Features.htm">
+    <TocEntry
+      Title="Consistencies"
+      Link="/Content/B_Feature Topics/Consistencies.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ingredients"
+      Link="/Content/B_Feature Topics/Ingredients.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Procedures"
+    Link="/Content/C_Procedure Topics/Procedures.htm">
+    <TocEntry
+      Title="How to prepare RI?"
+      Link="/Content/C_Procedure Topics/How to prepare Royal IcingThere.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How to get a rich black?"
+      Link="/Content/C_Procedure Topics/How to get a rich black.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="How to get a deep red?"
+      Link="/Content/C_Procedure Topics/How to get a deep red.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Useful Info"
+    Link="/Content/D_More Information/Useful information.htm">
+    <TocEntry
+      Title="Typical problems"
+      Link="/Content/D_More Information/Typical problems.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Colour bleed"
+        Link="/Content/D_More Information/Colour bleed.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Spots"
+        Link="/Content/D_More Information/Spots.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Air bubbles"
+        Link="/Content/D_More Information/Air bubbles.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Drying"
+        Link="/Content/D_More Information/Drying.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="FAQs"
+      Link="/Content/D_More Information/FAQs.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
